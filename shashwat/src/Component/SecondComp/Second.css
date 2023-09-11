@@ -1,0 +1,23 @@
+.card-img-top{
+    width: 90%;
+    height: 259px;
+    padding: 20px;
+}
+
+.card{
+    border-radius: 0;
+    margin: 10px;
+    box-shadow: rgba(0,0,0,0.16) opx 1px 4px;
+}
+
+.price{
+    position: absolute;
+    background-color: black;
+    color:white;
+    padding: 3px;
+    font-size: 12px;
+    border-radius: 20px;
+    top: 10px;
+    left:10px;
+}
+

@@ -1,0 +1,41 @@
+#new {
+    background-color: aqua;
+    width: 250;
+    height: 150;
+    border-radius: 950px;  
+
+}
+
+
+.borr {
+    padding: 6px;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 1000px;
+} 
+
+.boldd {
+    font-weight: 900;
+    font-style : italic;
+}
+
+.booll {
+    padding: 10px;
+    margin: 10px;
+    background-color:white;
+    padding: 10px 100px;
+    border-radius: 700px;
+}
+
+
+.bgi {
+    width: 70px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: blueviolet;
+    background-image: url(./Image/cat.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
